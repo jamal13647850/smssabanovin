@@ -1,6 +1,8 @@
 {
     "name": "pgsavis/smssabanovin",
     "description": "A laravel package for sabanovin sms panel",
+    "keywords": ["sabanovin", "sms", "api"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Sayyed Jamal Ghasemi",
