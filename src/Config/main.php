@@ -1,5 +1,6 @@
 <?php
 return [
-    'apiKey' => 'dorsaweb.com/adminpanel',
+    'apiKey' => '',
+    'gateway' => '',
 
 ];
